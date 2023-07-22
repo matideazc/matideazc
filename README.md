@@ -1,4 +1,8 @@
-### Hi I´m Matias 💻🖱️
+<div id:"header" align="center">
+ < img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="200"/>
+   <h1  allign="center" > Hi I´m Matias 💻🖱️</h1>
+</div>
+ Hi I´m Matias 💻🖱️
 ```js
 const matideazc = {
 pronouns: "he"|"him" 🧔
@@ -10,8 +14,8 @@ passions:['performance web' , 'web development']
 
 
 ```
-you can find me:🌎
-Cooming soon😴
+## you can find me:🌎
+  Cooming soon😴
 
 [![matideazc GitHub stats](https://github-readme-stats.vercel.app/api?username=matideazc)](https://github.com/anuraghazra/github-readme-stats)
 
