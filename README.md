@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi I´m Matias 💻🖱️
+```js
+const matideazc = {
+pronouns: "he"|"him" 🧔
+code:[HTML,CSS], 🖥️
+tools: none
+technologies: 'web'
+passions:['performance web' , 'web development']
+}
+```
+you can find me:🌎
+Cooming soon😴
+
 
 <!--
 **matideazc/matideazc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
