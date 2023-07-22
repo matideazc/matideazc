@@ -1,8 +1,6 @@
 <div id:"header" align="center">
- ![giphy](https://github.com/matideazc/matideazc/assets/140216613/02e0dd27-b3e5-4841-8ab7-529c60a85771)
    <h1  allign="center" > Hi I´m Matias 💻🖱️</h1>
 </div>
- Hi I´m Matias 💻🖱️
 ```js
 const matideazc = {
 pronouns: "he"|"him" 🧔
@@ -23,6 +21,7 @@ passions:['performance web' , 'web development']
 **matideazc/matideazc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![giphy](https://github.com/matideazc/matideazc/assets/140216613/02e0dd27-b3e5-4841-8ab7-529c60a85771)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
