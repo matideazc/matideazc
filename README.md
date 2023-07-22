@@ -7,12 +7,13 @@ tools: none
 technologies: 'web'
 passions:['performance web' , 'web development']
 }
-[![matideazc's GitHub stats](https://github-readme-stats.vercel.app/api?username=matideazc)](https://github.com/matideazc/github-readme-stats)
+
 
 ```
 you can find me:🌎
 Cooming soon😴
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matideazc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **matideazc/matideazc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
