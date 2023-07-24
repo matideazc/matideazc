@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Matias </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+![github_cover_banner](https://github.com/matideazc/matideazc/assets/140216613/02e0dd27-b3e5-4841-8ab7-529c60a85771)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic, full stack software developer . My aim is to make people's lives better & easier by developing applications and websites.
