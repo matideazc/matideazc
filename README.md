@@ -1,52 +1,21 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻hi I´m Matias </h1>
-
-![github_cover_banner](https://github.com/matideazc/matideazc/assets/140216613/02e0dd27-b3e5-4841-8ab7-529c60a85771)
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate full stack software developer . My aim is to make people's lives better & easier by developing applications and websites.
-<br>
-<br>
-<div align="center">
-
-[Email Me](matideazcuenaga@gmail.com)
-</div>
-</p>    
-<br>
-<!-- Languages and Tools -->
-
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    
-<br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-</div>
-<br>
+# 💫 About Me:
+Desarrollador backend en aprendizaje, con una orientación clara hacia la construcción de aplicaciones bien estructuradas, seguras y fáciles de mantener. Estoy fortaleciendo mi dominio de APIs REST, modelos de datos, autenticación y control de versiones, siempre con buenas prácticas como separación de capas y documentación clara. En paralelo, soy un entusiasta de la tecnología blockchain y estoy explorando su lógica de funcionamiento —contratos inteligentes, redes descentralizadas y casos de uso Web3— con la intención de, a mediano plazo, unir ambos mundos: backend tradicional e infraestructura descentralizada. Me defino como alguien curioso, perseverante y con mentalidad de crecimiento, que no solo quiere escribir código que funcione, sino entender la arquitectura completa y tomar decisiones técnicas con criterio.
 
 
-<!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div class="youtube videos cards" align="center">
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=matideazc&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=matideazc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matideazc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=matideazc&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=matideazc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matideazc&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+---
+[![](https://visitcount.itsvg.in/api?id=matideazc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=matideazc_private=true&theme=algolia&border_radius=20)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matideazc&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matideazc&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-
-🔗 Links 🔗
-<br>
-cooming soon....
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
